@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexnkinyua
+- 👋 Hi, I’m @alexkinyua
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Python
